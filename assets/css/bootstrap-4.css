@@ -11,6 +11,9 @@
    * Copyright 2011-2023 The Bootstrap Authors
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    */
+p{
+  text-align: justify;
+}
 :root,
 [data-bs-theme="light"] {
   --bs-blue: #0d6efd;
